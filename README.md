@@ -28,3 +28,7 @@ Fork the repository, make your changes, and submit a pull request.
 
 GNU General Public License (GPL-3.0). See LICENSE file for details.
 
+
+## Points
+* If you are going to clone it, it will not work until you provide the
+* icons used by this program 
